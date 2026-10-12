@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ales.dev-time.com/sitemap.xml
+Sitemap: https://ales.oblikuj.si/sitemap.xml
